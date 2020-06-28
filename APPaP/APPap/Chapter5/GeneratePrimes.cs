@@ -2,6 +2,7 @@
 
 namespace Chapter5
 {
+    // task: refactor this class  
     public class GeneratePrimes
     {
         public static int[] GeneratePrimeNumbers(int maxValue)
